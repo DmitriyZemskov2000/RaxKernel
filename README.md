@@ -50,7 +50,7 @@ git clone https://github.com/DmitriyZemskov2000/RaxKernel
 ---
 ## 🛜Наши Соц. Сети
 * **Telegram**: https://t.me/raxteam_projects
-* **Discord:**: https://discord.gg/YD5rrYPmat
+* **Discord**: https://discord.gg/YD5rrYPmat
 
 ---
 
