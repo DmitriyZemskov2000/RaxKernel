@@ -48,6 +48,11 @@ git clone https://github.com/DmitriyZemskov2000/RaxKernel
 5. Откройте Pull Request.
 
 ---
+## 🛜Наши Соц. Сети
+**Telegram**: https://t.me/raxteam_projects
+**Discord:**: https://discord.gg/YD5rrYPmat
+
+---
 
 ## 📄 Лицензия
 Репозиторий **RaxKernel** защищен лицензией **GPL-3.0**. Вы можете свободно использовать, изменять и распространять этот код, но ваши производные проекты также должны быть открыты под лицензией GPL-3.0. Подробнее читайте в файле `LICENSE`.
